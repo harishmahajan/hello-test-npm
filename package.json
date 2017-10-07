@@ -1,0 +1,40 @@
+{
+  "_from": "hello-test-npm",
+  "_id": "hello-test-npm@1.1.7",
+  "_inBundle": false,
+  "_integrity": "sha1-JQgw7wAItDftk+a+WZk0ua0Lkwg=",
+  "_location": "/hello-test-npm",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "hello-test-npm",
+    "name": "hello-test-npm",
+    "escapedName": "hello-test-npm",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "author": {
+    "name": "Harish Mahajan"
+  },
+  "bin": {
+    "hello-test-npm": "./bin.js"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Hello test npm example",
+  "homepage": "https://github.com/rms1000watt/hello-test-npm#readme",
+  "keywords": [
+    "hello test",
+    "test world",
+    "hello-test-world"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "hello-test-npm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.7"
+}
