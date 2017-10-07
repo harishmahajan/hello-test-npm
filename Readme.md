@@ -27,13 +27,4 @@ console.log(test.helloWorld());
 
 ```
 
-OR
-
-
-```
-import HelloWorldNPM from 'hello-world-npm';
-
-console.log(HelloWorldNPM());
-
-```
 
